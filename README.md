@@ -1,2 +1,3 @@
 SystemInfo
 ==========
+test remote git
